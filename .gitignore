@@ -1,0 +1,8 @@
+# Ignore CMake files for CLion + Intellij Rust
+CMakeLists.txt
+/cmake-*
+/.idea/
+
+# Rust
+/target
+**/*.bk
